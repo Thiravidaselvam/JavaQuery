@@ -18,14 +18,22 @@ function print ()
 }
 console.log(name)
 print()
-	}
+	
 </Pre>
 
  # Variable Scope function
-
+<pre>
  function print()
+ {
+ 	if (true)
+  	{
+   	var name='Test value of variable scope'
+    	}
+ }  
+ print()
+ console.log(var)
 
-
+</pre>
 
 
 
