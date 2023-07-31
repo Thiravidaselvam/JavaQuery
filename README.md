@@ -3,6 +3,8 @@ basics of java query functions
 
 
 #Scope functions
+
+if (code){
 const name='I am trying to develope React function'
 
 function print () 
@@ -21,7 +23,7 @@ console.log(name)
 print()
 	}
 
-
+}
 
 
      
