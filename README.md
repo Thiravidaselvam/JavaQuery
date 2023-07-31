@@ -37,7 +37,7 @@ print()
 
 above code name was declared in if block , if condition true then we can call name other wise create undefined error so it is called variable scope
 
-#Hoisting  variable
+# Hoisting  variable
 
 <pre>
 	function hoistcode()
