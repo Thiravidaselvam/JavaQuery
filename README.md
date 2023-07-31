@@ -1,7 +1,7 @@
 # JavaQuery
 basics of java query functions
 
-
+{
 Scope Examples
 
 const name='I am trying to develope React function'
@@ -20,4 +20,5 @@ function print ()
 
 console.log(name)
 print()
+}
      
