@@ -1,8 +1,8 @@
-# JavaQuery
+# Scope functions-JavaQuery
 basics of java query functions
 
 
-#Scope functions
+# Differend type of scope
 
 <Pre>
 const name='I am trying to develope React function'
