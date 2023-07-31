@@ -37,7 +37,21 @@ print()
 
 above code name was declared in if block , if condition true then we can call name other wise create undefined error so it is called variable scope
 
+#Hoisting  variable
 
+<pre>
+	function hoistcode()
+	{
+		a=10;
+		let b=15;
+	}
+	hoistcode();
+	console.log(a) // 10
+	console.log(b) // undefined issue
+</pre>
+
+above a has declared within the block java has consider non declared varaible as var type so we can call out side of the function. let variable only we can use in the block.
+it is called hoisting.
 
  
 
