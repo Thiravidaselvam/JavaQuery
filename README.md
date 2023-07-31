@@ -4,7 +4,7 @@ basics of java query functions
 
 #Scope functions
 
-<code>
+<Pre>
 const name='I am trying to develope React function'
 function print () 
 {
@@ -19,7 +19,7 @@ function print ()
 console.log(name)
 print()
 	}
-</code>
+</Pre>
 
  # Variable Scope function
 
