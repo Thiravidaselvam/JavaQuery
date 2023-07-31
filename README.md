@@ -50,7 +50,8 @@ above code name was declared in if block , if condition true then we can call na
 	console.log(b) // undefined issue
 </pre>
 
-above a has declared within the block java has consider non declared varaible as var type so we can call out side of the function. let variable only we can use in the block.
+above a has declared within the block java has consider non declared varaible as var type so we can call out side of the function. let variable only we can use in the block error code: VM137:8 Uncaught ReferenceError: b is not defined
+    at <anonymous>:8:14.
 it is called hoisting.
 
  
